@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background: orange;
+    }
+
+body {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+.navBar {list-style:none;
+    display:flex; margin-inline-start: 50%; gap: 10px;}
+
+.formularioRegistro {
+    width:400px; background-color:khaki;
+    padding: 30px;
+    margin:auto;
+}
